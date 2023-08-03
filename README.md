@@ -10,4 +10,4 @@
 
 ### Research & Thesis
 
-### Extra Curicular Activities
+### Extra Curricular Activities
