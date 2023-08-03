@@ -1,2 +1,5 @@
 title: Md Asif Siddiqui
 logo: /assets/images/asif_cv.jpg
+#description: Data Analyst
+show_downloads: true
+theme: jekyll-theme-minimal
